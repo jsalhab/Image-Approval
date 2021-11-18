@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.rec-pagination {
+  display: none !important;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
